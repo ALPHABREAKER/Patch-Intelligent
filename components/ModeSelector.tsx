@@ -33,6 +33,13 @@ const ModeSelector: React.FC<ModeSelectorProps> = ({ onSelectMode }) => {
           onClick={() => onSelectMode(ViewMode.FAMILY)}
         />
       </div>
+
+      <div className="mt-16 text-center text-black">
+        <p className="font-semibold">Fait par :</p>
+        <p className="mt-2 text-base">
+          Rafik Hachemi Boumila · Sofyan Emad Khayyal · Cedric Turcotte · Marius Desvalois · Saraï Rios-Vonder Heyd
+        </p>
+      </div>
     </div>
   );
 };
