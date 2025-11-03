@@ -1,0 +1,5 @@
+{
+  "name": "Copy of VitalPatch Health Monitor",
+  "description": "A web application prototype for an innovative medical device for monitoring glucose and other health parameters for patients with chronic diseases. It features two distinct views: one for the patient and one for a family member, providing real-time data, historical charts, and alerts.",
+  "requestFramePermissions": []
+}
